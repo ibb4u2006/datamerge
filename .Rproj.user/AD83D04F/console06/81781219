@@ -634,4 +634,118 @@ $[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -
 taset"[0K[?25h[?25l[2A$ git add ./[0K
 [0K
 [0K[2A[13G[?25h[?25l
-[?25h
+[?25hwarning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/prop/6[0KE[?25l
+15EBE7.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/prop/A[0KD
+724139.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/7390D4F1.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE[?25l
+4F9/7390D4F1-contents.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/9D11E0B5.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/9D11E0B5-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add ./[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and a[0K
+ column with time units was created first to create a simple plot of our da[0K
+taset"[0K[?25h[?25l[2A$ git push -u origin master[0K
+[0K
+[0K[2A[28G[?25h[?25l$ git add ./[0K
+[0K
+[0K[2A[13G[?25h[?25l$[0K
+[0K
+[0K[2A[13G[?25h[3G[?25l$ g[0K
+[0K
+[0K[2A[4G[?25h[?25l$ gi[0K
+[0K
+[0K[2A[5G[?25h[?25l$ git[0K
+[0K
+[0K[2A[6G[?25h[7G[?25l$ git c[0K
+[0K
+[0K[2A[8G[?25h[?25l$ git co[0K
+[0K
+[0K[2A[9G[?25h[?25l$ git com[0K
+[0K
+[0K[2A[10G[?25h[?25l$ git comm[0K
+[0K
+[0K[2A[11G[?25h[?25l$ git commi[0K
+[0K
+[0K[2A[12G[?25h[?25l$ git commit[0K
+[0K
+[0K[2A[13G[?25h[14G[?25l$ git commit -[0K
+[0K
+[0K[2A[15G[?25h[?25l$ git commit -m[0K
+[0K
+[0K[2A[16G[?25h[17G[?25l$ git commit -m "[0K
+[0K
+[0K[2A[18G[?25h[?25l$ git commit -m ""[0K
+[0K
+[0K[2A[19G[?25h[18G[?25l$ git commit -m "m"[0K
+[0K
+[0K[2A[19G[?25h[?25l$ git commit -m "mi"[0K
+[0K
+[0K[2A[20G[?25h[?25l$ git commit -m "mis"[0K
+[0K
+[0K[2A[21G[?25h[?25l$ git commit -m "miss"[0K
+[0K
+[0K[2A[22G[?25h[?25l$ git commit -m "missi"[0K
+[0K
+[0K[2A[22G[?25h[23G[?25l$ git commit -m "missin"[0K
+[0K
+[0K[2A[24G[?25h[?25l$ git commit -m "missing"[0K
+[0K
+[0K[2A[25G[?25h[?25l$ git commit -m "missing "[0K
+[0K
+[0K[2A[26G[?25h[?25l$ git commit -m "missing v"[0K
+[0K
+[0K[2A[27G[?25h[?25l$ git commit -m "missing va"[0K
+[0K
+[0K[2A[28G[?25h[?25l$ git commit -m "missing val"[0K
+[0K
+[0K[2A[29G[?25h[?25l$ git commit -m "missing valu"[0K
+[0K
+[0K[2A[30G[?25h[?25l$ git commit -m "missing value"[0K
+[0K
+[0K[2A[31G[?25h[?25l$ git commit -m "missing values"[0K
+[0K
+[0K[2A[32G[?25h[?25l
+[?25h[master 8182fc0] missing values[0K[?25l
+ Committer: D352 <D352@czu.cz>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 9 files changed, 92 insertions(+), 13 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "missing values"[0K[?25h[?25l$ git add ./[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 29, done.[0K[?25l
+Counting objects:  58% (17/29)[0K[33G[?25h[?25lCounting objects: 100% (29/29), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (14/14), done.[0K
+Writing objects: 100% (15/15), 1.70 KiB | 581.00 KiB/s, done.[0K
+Total 15 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/ibb4u2006/datamerge.git[0K[?25l
+   38e6208..8182fc0  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "missing values"[0K[?25h[?25l$ git add ./[0K[?25h[?25l
+[0K[?25h

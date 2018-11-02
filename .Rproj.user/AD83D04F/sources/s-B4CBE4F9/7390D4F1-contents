@@ -56,3 +56,74 @@ ggplot(data = clim_stations[is.na(values)], aes(x = month)) +
   theme_bw()
 
 clim_stations[is.na(values)]
+
+
+
+annual_means_tab <- dcast(annual_means, year ~ variable + station)
+annual_means_cor <- cor(annual_means_tab[, -1], use = "complete.obs")
+
+ann_m_m <- melt(annual_means_cor)
+
+ggplot(ann_m_m) +
+  geom_tile(aes(x = Var1, y = Var2, fill = values)) +
+  geom_text(aes(x = Var1, y = Var2, label = round(values, 2)), col = 'white') +
+  coord_fixed() +
+  theme_bw()
+
+library(corrplot)
+library(RColorBrewer)
+
+
+my_col <- rev(colorRampPalette(brewer.pal(11, "RdBu"))(100))
+corrplot(annual_means_cor, col = my_col)
+
+corrplot(annual_means_cor, 
+         type = "upper", 
+         tl.col = "black", 
+         tl.pos = "d", 
+         col = my_col)
+corrplot(annual_means_cor, 
+         add = TRUE, 
+         type = "lower", 
+         method = "number", 
+         cl.lim = c(-1,1), 
+         col = my_col, 
+         diag = FALSE,
+         tl.pos = "n", 
+         cl.pos = "n")
+
+
+
+
+monthly_means_tab <- dcast(monthly_means, year ~ variable + station)
+monthly_means_cor <- cor(monthly_means_tab[, -1], use = "complete.obs")
+
+month_m_m <- melt(monthly_means_cor)
+
+ggplot(month_m_m) +
+  geom_tile(aes(x = Var1, y = Var2, fill = values)) +
+  geom_text(aes(x = Var1, y = Var2, label = round(values, 2)), col = 'white') +
+  coord_fixed() +
+  theme_bw()
+
+library(corrplot)
+library(RColorBrewer)
+
+
+my_col <- rev(colorRampPalette(brewer.pal(11, "RdBu"))(100))
+corrplot(monthly_means_cor, col = my_col)
+
+corrplot(monthly_means_cor, 
+         type = "upper", 
+         tl.col = "black", 
+         tl.pos = "d", 
+         col = my_col)
+corrplot(monthly_means_cor, 
+         add = TRUE, 
+         type = "lower", 
+         method = "number", 
+         cl.lim = c(-1,1), 
+         col = my_col, 
+         diag = FALSE,
+         tl.pos = "n", 
+         cl.pos = "n")

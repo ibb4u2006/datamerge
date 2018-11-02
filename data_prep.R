@@ -56,3 +56,19 @@ ggplot(data = clim_stations[is.na(values)], aes(x = month)) +
   theme_bw()
 
 clim_stations[is.na(values)]
+
+
+
+annual_means_tab <- dcast(annual_means, year ~ variable + station)
+annual_means_cor <- cor(annual_means_tab[, -1], use = "complete.obs")
+
+ann_m_m <- melt(annual_means_cor)
+
+ggplot(ann_m_m) +
+  geom_tile(aes(x = Var1, y = Var2, fill = value)) +
+  geom_text(aes(x = Var1, y = Var2, label = round(value, 2)), col = 'white') +
+  coord_fixed() +
+  theme_bw()
+
+library(corrplot)
+library(RColorBrewer)
