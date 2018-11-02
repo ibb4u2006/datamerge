@@ -116,4 +116,283 @@ Changes not staged for commit:[0K
 [0K
 [0K[?25h[?25l
 [0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25h[?25li[0K[4G[?25h[5G[?25l$ git[0K[?25h[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/console06/81781219[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/console06/INDEX001[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/sources/prop/ECB99CE3[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5-conten[0Kt
+s[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/74611053-conten[0Kt
+s[0m[0K
+        [0;32mnew file:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/lock_file[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;32mnew file:   climate.Rproj[0m[0K
+        [0;32mnew file:   data/clim_stations.rdata[0m[0K
+        [0;32mnew file:   data/precip_stations.rdata[0m[0K
+        [0;32mnew file:   data/temp_month.rdata[0m[0K
+        [0;32mnew file:   data/temp_stations.rdata[0m[0K[9G[?25h[?25l
+        [0;32mnew file:   data_prep.R[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/console06/81781219[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[7G[?25h[8G[?25l$ git co[0K[?25hm[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m ""[0K[?25h[18G[?25l$ git commit -m "m"[0K[19G[?25h[?25l$ git commit -m ""[0K[?25h[18G[?25l$ git commit -m "M"[0K[19G[?25h[?25l$ git commit -m "Me"[0K[20G[?25h[?25l$ git commit -m "Mer"[0K[21G[?25h[?25l$ git commit -m "Merg"[0K[22G[?25h[?25l$ git commit -m "Merge"[0K[23G[?25h[?25l$ git commit -m "Merged"[0K[24G[?25h[?25l$ git commit -m "Merged "[0K[25G[?25h[?25l$ git commit -m "Merged"[0K[?25h[24G[?25l$ git commit -m "Merge"[0K[23G[?25h[?25l$ git commit -m "Merg"[0K[22G[?25h[?25l$ git commit -m "Mer"[0K[?25h[21G[?25l$ git commit -m "Me"[0K[20G[?25h[?25l$ git commit -m "M"[0K[19G[?25h[?25l$ git commit -m ""[0K[?25h[18G[?25l$ git commit -m "L"[0K[19G[?25h[?25l$ git commit -m "Lo"[0K[20G[?25h[?25l$ git commit -m "Loa"[0K[21G[?25h[?25l$ git commit -m "Load"[0K[22G[?25h[?25l$ git commit -m "Loade"[0K[23G[?25h[?25l$ git commit -m "Loaded"[0K[24G[?25h[?25l$ git commit -m "Loaded "[0K[25G[?25h[?25l$ git commit -m "Loaded t"[0K[26G[?25h[?25l$ git commit -m "Loaded tw"[0K[27G[?25h[?25l$ git commit -m "Loaded two"[0K[28G[?25h[?25l$ git commit -m "Loaded two "[0K[29G[?25h[?25l$ git commit -m "Loaded two d"[0K[30G[?25h[?25l$ git commit -m "Loaded two da"[0K[31G[?25h[?25l$ git commit -m "Loaded two dat"[0K[32G[?25h[?25l$ git commit -m "Loaded two data"[0K[33G[?25h[?25l$ git commit -m "Loaded two datas"[0K[34G[?25h[?25l$ git commit -m "Loaded two datase"[0K[35G[?25h[?25l$ git commit -m "Loaded two dataset"[0K[36G[?25h[?25l$ git commit -m "Loaded two datasets"[0K[37G[?25h[?25l$ git commit -m "Loaded two datasets,"[0K[38G[?25h[?25l$ git commit -m "Loaded two datasets, "[0K[39G[?25h[?25l$ git commit -m "Loaded two datasets, c"[0K[40G[?25h[?25l$ git commit -m "Loaded two datasets, ch"[0K[41G[?25h[?25l$ git commit -m "Loaded two datasets, cha"[0K[42G[?25h[?25l$ git commit -m "Loaded two datasets, chan"[0K[43G[?25h[?25l$ git commit -m "Loaded two datasets, chang"[0K[44G[?25h[?25l$ git commit -m "Loaded two datasets, change"[0K[45G[?25h[?25l$ git commit -m "Loaded two datasets, changed"[0K[46G[?25h[?25l$ git commit -m "Loaded two datasets, changed "[0K[47G[?25h[?25l$ git commit -m "Loaded two datasets, changed t"[0K[48G[?25h[?25l$ git commit -m "Loaded two datasets, changed th"[0K[49G[?25h[?25l$ git commit -m "Loaded two datasets, changed the"[0K[50G[?25h[?25l$ git commit -m "Loaded two datasets, changed the "[0K[51G[?25h[?25l$ git commit -m "Loaded two datasets, changed the d"[0K[52G[?25h[?25l$ git commit -m "Loaded two datasets, changed the di"[0K[53G[?25h[?25l$ git commit -m "Loaded two datasets, changed the d"[0K[?25h[52G[?25l$ git commit -m "Loaded two datasets, changed the "[0K[51G[?25h[?25l$ git commit -m "Loaded two datasets, changed the"[0K[50G[?25h[?25l$ git commit -m "Loaded two datasets, changed th"[0K[49G[?25h[?25l$ git commit -m "Loaded two datasets, changed t"[0K[?25h[48G[?25l$ git commit -m "Loaded two datasets, changed "[0K[?25h[47G[?25l$ git commit -m "Loaded two datasets, changed"[0K[46G[?25h[?25l$ git commit -m "Loaded two datasets, change"[0K[45G[?25h[?25l$ git commit -m "Loaded two datasets, chang"[0K[44G[?25h[?25l$ git commit -m "Loaded two datasets, chan"[0K[43G[?25h[?25l$ git commit -m "Loaded two datasets, cha"[0K[?25h[42G[?25l$ git commit -m "Loaded two datasets, ch"[0K[41G[?25h[?25l$ git commit -m "Loaded two datasets, c"[0K[40G[?25h[?25l$ git commit -m "Loaded two datasets, "[0K[39G[?25h[?25l$ git commit -m "Loaded two datasets, r"[0K[40G[?25h[?25l$ git commit -m "Loaded two datasets, re"[0K[41G[?25h[?25l$ git commit -m "Loaded two datasets, ren"[0K[42G[?25h[?25l$ git commit -m "Loaded two datasets, rena"[0K[43G[?25h[?25l$ git commit -m "Loaded two datasets, renam"[0K[44G[?25h[?25l$ git commit -m "Loaded two datasets, rename"[0K[45G[?25h[?25l$ git commit -m "Loaded two datasets, renamed"[0K[46G[?25h[?25l$ git commit -m "Loaded two datasets, renamed "[0K[46G[?25h[47G[?25l$ git commit -m "Loaded two datasets, renamed t"[0K[48G[?25h[?25l$ git commit -m "Loaded two datasets, renamed th"[0K[49G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the"[0K[50G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the "[0K[51G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the c"[0K[52G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the co"[0K[53G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the col"[0K[54G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colu"[0K[55G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colum"[0K[56G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the column"[0K[57G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns"[0K[58G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns "[0K[59G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns h"[0K[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns ha"[0K[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns hav"[0K[62G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns have"[0K[63G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns have "[0K[64G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns have"[0K[63G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns hav"[0K[?25h[62G[?25l$ git commit -m "Loaded two datasets, renamed the columns ha"[0K[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns h"[0K[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns "[0K[?25h[59G[?25l$ git commit -m "Loaded two datasets, renamed the columns"[0K[?25h[58G[?25l$ git commit -m "Loaded two datasets, renamed the column"[0K[57G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colum"[0K[?25h[56G[?25l$ git commit -m "Loaded two datasets, renamed the colu"[0K[55G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the col"[0K[54G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the co"[0K[?25h[53G[?25l$ git commit -m "Loaded two datasets, renamed the c"[0K[52G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the "[0K[51G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the c"[0K[52G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the co"[0K[52G[?25h[53G[?25l$ git commit -m "Loaded two datasets, renamed the col"[0K[54G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colu"[0K[55G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colum"[0K[56G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the column"[0K[57G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns"[0K[58G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns "[0K[59G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns o"[0K[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns o "[0K[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns o"[0K[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on"[0K[60G[?25h[61G[?25l$ git commit -m "Loaded two datasets, renamed the columns on "[0K[62G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on t"[0K[63G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on th"[0K[64G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on the"[0K[65G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on the "[0K[66G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on the"[0K[?25h[65G[?25l$ git commit -m "Loaded two datasets, renamed the columns on th"[0K[64G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on t"[0K[63G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on "[0K[62G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns on"[0K[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns o"[0K[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns "[0K[59G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns"[0K[58G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the column"[0K[57G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colum"[0K[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colu"[0K[?25h[?25l$ git commit -m "Loaded two datasets, renamed the col"[0K[?25h[54G[?25l$ git commit -m "Loaded two datasets, renamed the co"[0K[53G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the c"[0K[52G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the "[0K[51G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the"[0K[50G[?25h[?25l$ git commit -m "Loaded two datasets, renamed th"[0K[49G[?25h[?25l$ git commit -m "Loaded two datasets, renamed t"[0K[48G[?25h[?25l$ git commit -m "Loaded two datasets, renamed "[0K[47G[?25h[?25l$ git commit -m "Loaded two datasets, renamed"[0K[46G[?25h[?25l$ git commit -m "Loaded two datasets, rename"[0K[45G[?25h[?25l$ git commit -m "Loaded two datasets, renam"[0K[44G[?25h[?25l$ git commit -m "Loaded two datasets, rena"[0K[43G[?25h[?25l$ git commit -m "Loaded two datasets, renam"[0K[44G[?25h[?25l$ git commit -m "Loaded two datasets, rename"[0K[45G[?25h[?25l$ git commit -m "Loaded two datasets, renamed"[0K[46G[?25h[?25l$ git commit -m "Loaded two datasets, renamed "[0K[47G[?25h[?25l$ git commit -m "Loaded two datasets, renamed t"[0K[48G[?25h[?25l$ git commit -m "Loaded two datasets, renamed th"[0K[49G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the"[0K[50G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the "[0K[51G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the c"[0K[52G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the co"[0K[53G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the col"[0K[54G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colu"[0K[55G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the colum"[0K[56G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the column"[0K[57G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns"[0K[58G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns "[0K[59G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns w"[0K[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns wi"[0K[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns wit"[0K[62G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with"[0K[63G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with "[0K[64G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with d"[0K[65G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with di"[0K[66G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with dif"[0K[67G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with diff"[0K[68G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with diffe"[0K[69G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with differ"[0K[70G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with differe"[0K[71G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with differen"[0K[72G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with different"[0K[73G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with different "[0K[74G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with different n"[0K[75G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with different na[0K
+"[0K[1G[?25h[?25lm"[0K[2G[?25h[?25lme"[0K[3G[?25h[?25lmes"[0K[4G[?25h[?25lmes "[0K[5G[?25h[?25lmes o"[0K[6G[?25h[?25lmes on"[0K[7G[?25h[?25lmes on "[0K[8G[?25h[?25lmes on t"[0K[9G[?25h[?25lmes on th"[0K[10G[?25h[?25lmes on the"[0K[11G[?25h[?25lmes on the "[0K[12G[?25h[?25lmes on the t"[0K[13G[?25h[?25lmes on the tw"[0K[14G[?25h[?25lmes on the two"[0K[15G[?25h[?25lmes on the two "[0K[16G[?25h[?25lmes on the two d"[0K[17G[?25h[?25lmes on the two da"[0K[18G[?25h[?25lmes on the two dat"[0K[19G[?25h[?25lmes on the two data"[0K[20G[?25h[?25lmes on the two datas"[0K[21G[?25h[?25lmes on the two datase"[0K[22G[?25h[?25lmes on the two dataset"[0K[23G[?25h[?25lmes on the two datasets"[0K[24G[?25h[?25lmes on the two datasets "[0K[25G[?25h[?25lmes on the two datasets t"[0K[26G[?25h[?25lmes on the two datasets to"[0K[27G[?25h[?25lmes on the two datasets to "[0K[28G[?25h[?25lmes on the two datasets to h"[0K[29G[?25h[?25lmes on the two datasets to ha"[0K[30G[?25h[?25lmes on the two datasets to hav"[0K[31G[?25h[?25lmes on the two datasets to have"[0K[32G[?25h[?25lmes on the two datasets to have "[0K[33G[?25h[?25lmes on the two datasets to have s"[0K[34G[?25h[?25lmes on the two datasets to have sa"[0K[35G[?25h[?25lmes on the two datasets to have sam"[0K[36G[?25h[?25lmes on the two datasets to have same"[0K[37G[?25h[?25lmes on the two datasets to have same "[0K[38G[?25h[?25lmes on the two datasets to have same n"[0K[39G[?25h[?25lmes on the two datasets to have same na"[0K[40G[?25h[?25lmes on the two datasets to have same nam"[0K[40G[?25h[41G[?25lmes on the two datasets to have same name"[0K[42G[?25h[?25lmes on the two datasets to have same name,"[0K[43G[?25h[?25lmes on the two datasets to have same name, "[0K[44G[?25h[?25lmes on the two datasets to have same name, i"[0K[45G[?25h[?25lmes on the two datasets to have same name, in"[0K[46G[?25h[?25lmes on the two datasets to have same name, int"[0K[47G[?25h[?25lmes on the two datasets to have same name, intr"[0K[48G[?25h[?25lmes on the two datasets to have same name, intro"[0K[49G[?25h[?25lmes on the two datasets to have same name, introd"[0K[50G[?25h[?25lmes on the two datasets to have same name, introdu"[0K[50G[?25h[51G[?25lmes on the two datasets to have same name, introduc"[0K[52G[?25h[?25lmes on the two datasets to have same name, introduce"[0K[53G[?25h[?25lmes on the two datasets to have same name, introduced"[0K[54G[?25h[?25lmes on the two datasets to have same name, introduced "[0K[55G[?25h[?25lmes on the two datasets to have same name, introduced a"[0K[56G[?25h[?25lmes on the two datasets to have same name, introduced a "[0K[57G[?25h[?25lmes on the two datasets to have same name, introduced a v"[0K[58G[?25h[?25lmes on the two datasets to have same name, introduced a va"[0K[58G[?25h[59G[?25lmes on the two datasets to have same name, introduced a var"[0K[60G[?25h[?25lmes on the two datasets to have same name, introduced a vari"[0K[61G[?25h[?25lmes on the two datasets to have same name, introduced a varia"[0K[62G[?25h[?25lmes on the two datasets to have same name, introduced a variab"[0K[63G[?25h[?25lmes on the two datasets to have same name, introduced a variabl"[0K[64G[?25h[?25lmes on the two datasets to have same name, introduced a variable"[0K[65G[?25h[?25lmes on the two datasets to have same name, introduced a variable "[0K[66G[?25h[?25lmes on the two datasets to have same name, introduced a variable c"[0K[67G[?25h[?25lmes on the two datasets to have same name, introduced a variable co"[0K[68G[?25h[?25lmes on the two datasets to have same name, introduced a variable col"[0K[69G[?25h[?25lmes on the two datasets to have same name, introduced a variable colu"[0K[69G[?25h[70G[?25lmes on the two datasets to have same name, introduced a variable colum"[0K[71G[?25h[?25lmes on the two datasets to have same name, introduced a variable column"[0K[72G[?25h[?25lmes on the two datasets to have same name, introduced a variable column "[0K[73G[?25h[?25lmes on the two datasets to have same name, introduced a variable column t"[0K[74G[?25h[?25lmes on the two datasets to have same name, introduced a variable column to"[0K[75G[?25h[?25lmes on the two datasets to have same name, introduced a variable column to[0K
+"[0K[1G[?25h[?25ld"[0K[2G[?25h[?25ldi"[0K[3G[?25h[?25ldis"[0K[4G[?25h[?25ldist"[0K[5G[?25h[?25ldisti"[0K[6G[?25h[?25ldistib"[0K[7G[?25h[?25ldisti"[0K[6G[?25h[?25ldistin"[0K[7G[?25h[?25ldisting"[0K[8G[?25h[?25ldistingu"[0K[9G[?25h[?25ldistingui"[0K[10G[?25h[?25ldistinguis"[0K[11G[?25h[?25ldistinguish"[0K[12G[?25h[?25ldistinguish "[0K[13G[?25h[?25ldistinguish b"[0K[14G[?25h[?25ldistinguish be"[0K[15G[?25h[?25ldistinguish bet"[0K[16G[?25h[?25ldistinguish betw"[0K[17G[?25h[?25ldistinguish betwe"[0K[18G[?25h[?25ldistinguish betwee"[0K[19G[?25h[?25ldistinguish between"[0K[20G[?25h[?25ldistinguish between "[0K[21G[?25h[?25ldistinguish between t"[0K[22G[?25h[?25ldistinguish between th"[0K[23G[?25h[?25ldistinguish between the"[0K[24G[?25h[?25ldistinguish between the "[0K[25G[?25h[?25ldistinguish between the t"[0K[26G[?25h[?25ldistinguish between the tw"[0K[27G[?25h[?25ldistinguish between the two"[0K[28G[?25h[?25ldistinguish between the two "[0K[29G[?25h[?25ldistinguish between the two d"[0K[30G[?25h[?25ldistinguish between the two da"[0K[31G[?25h[?25ldistinguish between the two dat"[0K[32G[?25h[?25ldistinguish between the two data"[0K[33G[?25h[?25ldistinguish between the two datas"[0K[34G[?25h[?25ldistinguish between the two datase"[0K[35G[?25h[?25ldistinguish between the two dataset"[0K[36G[?25h[?25ldistinguish between the two datasets"[0K[37G[?25h[?25ldistinguish between the two datasets "[0K[38G[?25h[?25ldistinguish between the two datasets a"[0K[39G[?25h[?25ldistinguish between the two datasets an"[0K[40G[?25h[?25ldistinguish between the two datasets and"[0K[41G[?25h[?25ldistinguish between the two datasets and "[0K[42G[?25h[?25ldistinguish between the two datasets and m"[0K[43G[?25h[?25ldistinguish between the two datasets and me"[0K[44G[?25h[?25ldistinguish between the two datasets and mer"[0K[45G[?25h[?25ldistinguish between the two datasets and merg"[0K[46G[?25h[?25ldistinguish between the two datasets and merge"[0K[47G[?25h[?25ldistinguish between the two datasets and merged"[0K[48G[?25h[?25ldistinguish between the two datasets and merged "[0K[49G[?25h[?25ldistinguish between the two datasets and merged t"[0K[50G[?25h[?25ldistinguish between the two datasets and merged th"[0K[51G[?25h[?25ldistinguish between the two datasets and merged the"[0K[52G[?25h[?25ldistinguish between the two datasets and merged the "[0K[53G[?25h[?25ldistinguish between the two datasets and merged the t"[0K[54G[?25h[?25ldistinguish between the two datasets and merged the tw"[0K[55G[?25h[?25ldistinguish between the two datasets and merged the two"[0K[56G[?25h[?25ldistinguish between the two datasets and merged the two "[0K[57G[?25h[?25ldistinguish between the two datasets and merged the two d"[0K[58G[?25h[?25ldistinguish between the two datasets and merged the two da"[0K[59G[?25h[?25ldistinguish between the two datasets and merged the two dat"[0K[60G[?25h[?25ldistinguish between the two datasets and merged the two data"[0K[61G[?25h[?25ldistinguish between the two datasets and merged the two datas"[0K[62G[?25h[?25ldistinguish between the two datasets and merged the two datass"[0K[63G[?25h[?25ldistinguish between the two datasets and merged the two datasse"[0K[64G[?25h[?25ldistinguish between the two datasets and merged the two datasset"[0K[65G[?25h[?25ldistinguish between the two datasets and merged the two datassets"[0K[66G[?25h[?25ldistinguish between the two datasets and merged the two datassets "[0K[67G[?25h[?25ldistinguish between the two datasets and merged the two datassets w"[0K[68G[?25h[?25ldistinguish between the two datasets and merged the two datassets wi"[0K[69G[?25h[?25ldistinguish between the two datasets and merged the two datassets wit"[0K[70G[?25h[?25ldistinguish between the two datasets and merged the two datassets with"[0K[70G[?25h[71G[?25ldistinguish between the two datasets and merged the two datassets with "[0K[72G[?25h[?25ldistinguish between the two datasets and merged the two datassets with r"[0K[73G[?25h[?25ldistinguish between the two datasets and merged the two datassets with rb"[0K[74G[?25h[?25ldistinguish between the two datasets and merged the two datassets with rbi"[0K[75G[?25h[?25ldistinguish between the two datasets and merged the two datassets with rbin[0K
+"[0K[1G[?25h[?25ld"[0K[2G[?25h[1G[?25l[1A[75G[?25h[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[?25l[2A$ git status[0K
+[0K
+[0K
+[0K[3A[13G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns with different na[0K
+mes on the two datasets to have same name, introduced a variable column to[0K
+distinguish between the two datasets and merged the two datassets with rbin[0K
+d"[0K[?25h[2G[1G[?25l[1A[75G[?25h[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[11G[10G[9G[8G[7G[6G[5G[4G[3G[2G[1G[?25l[1A[75G[?25h[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[11G[10G[9G[8G[7G[6G[5G[4G[3G[2G[1G[?25l[1A[75G[?25h[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[?25l$ git commit -m "Loaded two datasets, renamed the columns wit different nam[0K
+es on the two datasets to have same name, introduced a variable column to d[0K
+istinguish between the two datasets and merged the two datassets with rbind[0K
+"[0K[3A[62G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns wi different name[0K
+s on the two datasets to have same name, introduced a variable column to di[0K
+stinguish between the two datasets and merged the two datassets with rbind"[0K
+[0K[3A[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns w different names[0K
+s on the two datasets to have same name, introduced a variable column to di[0K
+stinguish between the two datasets and merged the two datassets with rbind"[0K
+[0K[3A[61G[?25h[?25l
+ on the two datasets to have same name, introduced a variable column to dis[0K
+tinguish between the two datasets and merged the two datassets with rbind"[0K
+[0K[3A[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns  different names[0K
+on the two datasets to have same name, introduced a variable column to dist[0K
+inguish between the two datasets and merged the two datassets with rbind"[0K
+[0K[3A[59G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns t different names[0K
+ on the two datasets to have same name, introduced a variable column to dis[0K
+tinguish between the two datasets and merged the two datassets with rbind"[0K
+[0K[3A[60G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns th different name[0K
+s on the two datasets to have same name, introduced a variable column to di[0K
+stinguish between the two datasets and merged the two datassets with rbind"[0K
+[0K[3A[61G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns tha different nam[0K
+es on the two datasets to have same name, introduced a variable column to d[0K
+istinguish between the two datasets and merged the two datassets with rbind[0K
+"[0K[3A[62G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns that different na[0K
+mes on the two datasets to have same name, introduced a variable column to[0K
+distinguish between the two datasets and merged the two datassets with rbin[0K
+d"[0K[3A[63G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns that  different n[0K
+ames on the two datasets to have same name, introduced a variable column to[0K
+ distinguish between the two datasets and merged the two datassets with rbi[0K
+nd"[0K[3A[64G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns that h different[0K
+names on the two datasets to have same name, introduced a variable column t[0K
+o distinguish between the two datasets and merged the two datassets with rb[0K
+ind"[0K[3A[65G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns that ha different[0K
+names on the two datasets to have same name, introduced a variable column t[0K
+o distinguish between the two datasets and merged the two datassets with rb[0K
+ind"[0K[3A[65G[?25h[?25l
+ names on the two datasets to have same name, introduced a variable column[0K
+to distinguish between the two datasets and merged the two datassets with r[0K
+bind"[0K[3A[66G[?25h[?25l$ git commit -m "Loaded two datasets, renamed the columns that has differen[0K
+t names on the two datasets to have same name, introduced a variable column[0K
+ to distinguish between the two datasets and merged the two datassets with[0K
+rbind"[0K[3A[67G[?25h[68G[69G[70G[71G[72G[73G[74G[75G[?25l
+[?25h[2G[3G[4G[5G[6G[7G[8G[9G[10G[11G[12G[13G[14G[15G[16G[17G[18G[19G[20G[21G[22G[23G[24G[25G[26G[27G[28G[29G[30G[31G[32G[33G[34G[35G[36G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[70G[71G[72G[73G[74G[75G[?25l
+[?25h[2G[3G[4G[5G[6G[7G[8G[9G[10G[11G[12G[13G[14G[15G[16G[17G[18G[19G[20G[21G[22G[23G[24G[25G[26G[27G[28G[29G[30G[31G[32G[33G[34G[35G[36G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[70G[71G[72G[73G[74G[75G[?25l
+[?25h[2G[3G[4G[5G[6G[7G[?25l
+[0K[?25h[master (root-commit) ace282e] Loaded two datasets, renamed the columns tha[0Kt[?25l
+ has different names on the two datasets to have same name, introduced a va[0Kr
+iable column to distinguish between the two datasets and merged the two dat[0Ka
+ssets with rbind[0K
+ Committer: D352 <D352@czu.cz>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 16 files changed, 236 insertions(+)[0K
+ create mode 100644 .Rproj.user/AD83D04F/console06/81781219[0K
+ create mode 100644 .Rproj.user/AD83D04F/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/AD83D04F/sources/prop/ECB99CE3[0K
+ create mode 100644 .Rproj.user/AD83D04F/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5[0K
+ create mode 100644 .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5-conten[0Kt
+s[0K
+ create mode 100644 .Rproj.user/AD83D04F/sources/s-B4CBE4F9/74611053-conten[0Kt
+s[0K
+ create mode 100644 .Rproj.user/AD83D04F/sources/s-B4CBE4F9/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 climate.Rproj[0K
+ create mode 100644 data/clim_stations.rdata[0K
+ create mode 100644 data/precip_stations.rdata[0K
+ create mode 100644 data/temp_month.rdata[0K
+ create mode 100644 data/temp_stations.rdata[0K
+ create mode 100644 data_prep.R[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/console06/81781219[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[19G[?25l$ git push master h[0K[?25ht[0Kt[0Kp[0K[?25l$ git push master htt[0K[?25h[?25l$ git push master ht[0K[?25h[?25l$ git push master h[0K[?25h[?25l$ git push master[0K[19G[?25h[18G[?25l$ git push maste[0K[?25h[?25l$ git push mast[0K[?25h[?25l$ git push mas[0K[?25h[?25l$ git push ma[0K[?25h[?25l$ git push m[0K[?25h[?25l$ git push[0K[12G[?25h[11G[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ ^V[0K[?25h[?25l$[0K[3G[?25h[?25l$ git remote add origin https://github.com/ibb4u2006/datamerge.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 24, done.[0K[?25l
+Counting objects: 100% (24/24), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (21/21), done.[0K
+Writing objects:  20% (5/24)[0K[1G[?25hWriting objects: 100% (24/24), 70.08 KiB | 7.79 MiB/s, done.[0K[?25l
+Total 24 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/ibb4u2006/datamerge/pull/new/master[0K
+remote:[0K
+To https://github.com/ibb4u2006/datamerge.git[0K
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/console06/81781219[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/prop/ECB99CE3[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5-conten[0Kt
+s[0m[0K
+        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   data_prep.R[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/AD83D04F/sources/prop/6E15EBE7[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/prop/AD724139[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/7390D4F1[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/7390D4F1-contents[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5-contents[0m[0K
+        [0;31mreadme.Rd[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25herror: open(".Rproj.user/AD83D04F/console06/81781219"): Permission denied[0K[?25l
+error: unable to index file .Rproj.user/AD83D04F/console06/81781219[0K
+fatal: updating files failed[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/console06/81781219[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/prop/ECB99CE3[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/prop/INDEX[0m[0K[?25h[?25l
+        [0;31mdeleted:    .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5-conten[0Kt
+s[0m[0K
+        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   data_prep.R[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/AD83D04F/sources/prop/6E15EBE7[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/prop/AD724139[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/7390D4F1[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/7390D4F1-contents[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5-contents[0m[0K
+        [0;31mreadme.Rd[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m ""[0K[?25h[18G[?25l$ git commit -m "A"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "M"[0K[19G[?25h[?25l$ git commit -m "Mo"[0K[20G[?25h[?25l$ git commit -m "Mon"[0K[21G[?25h[?25l$ git commit -m "Mont"[0K[22G[?25h[?25l$ git commit -m "Month"[0K[23G[?25h[?25l$ git commit -m "Monthl"[0K[24G[?25h[?25l$ git commit -m "Monthly"[0K[25G[?25h[?25l$ git commit -m "Monthly "[0K[26G[?25h[?25l$ git commit -m "Monthly a"[0K[27G[?25h[?25l$ git commit -m "Monthly an"[0K[28G[?25h[?25l$ git commit -m "Monthly and"[0K[29G[?25h[?25l$ git commit -m "Monthly and "[0K[30G[?25h[?25l$ git commit -m "Monthly and a"[0K[31G[?25h[?25l$ git commit -m "Monthly and an"[0K[32G[?25h[?25l$ git commit -m "Monthly and ann"[0K[33G[?25h[?25l$ git commit -m "Monthly and annu"[0K[34G[?25h[?25l$ git commit -m "Monthly and annua"[0K[35G[?25h[?25l$ git commit -m "Monthly and annual"[0K[36G[?25h[?25l$ git commit -m "Monthly and annual "[0K[37G[?25h[?25l$ git commit -m "Monthly and annual m"[0K[38G[?25h[?25l$ git commit -m "Monthly and annual me"[0K[39G[?25h[?25l$ git commit -m "Monthly and annual mea"[0K[40G[?25h[?25l$ git commit -m "Monthly and annual mean"[0K[41G[?25h[?25l$ git commit -m "Monthly and annual mean "[0K[42G[?25h[?25l$ git commit -m "Monthly and annual mean c"[0K[43G[?25h[?25l$ git commit -m "Monthly and annual mean ca"[0K[44G[?25h[?25l$ git commit -m "Monthly and annual mean cal"[0K[45G[?25h[?25l$ git commit -m "Monthly and annual mean calc"[0K[46G[?25h[?25l$ git commit -m "Monthly and annual mean calcu"[0K[47G[?25h[?25l$ git commit -m "Monthly and annual mean calcul"[0K[48G[?25h[?25l$ git commit -m "Monthly and annual mean calcula"[0K[49G[?25h[?25l$ git commit -m "Monthly and annual mean calculat"[0K[50G[?25h[?25l$ git commit -m "Monthly and annual mean calculate"[0K[51G[?25h[?25l$ git commit -m "Monthly and annual mean calculated"[0K[52G[?25h[?25l$ git commit -m "Monthly and annual mean calculated "[0K[53G[?25h[?25l$ git commit -m "Monthly and annual mean calculated f"[0K[54G[?25h[?25l$ git commit -m "Monthly and annual mean calculated fo"[0K[55G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for"[0K[56G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for "[0K[57G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for b"[0K[58G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for bo"[0K[59G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for bot"[0K[60G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both"[0K[61G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both "[0K[62G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both t"[0K[63G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both te"[0K[64G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both tem"[0K[65G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp"[0K[66G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp "[0K[67G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp A"[0K[68G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp AN"[0K[69G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp AND"[0K[70G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp AND "[0K[71G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp AND"[0K[70G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp AN"[0K[?25h[69G[?25l$ git commit -m "Monthly and annual mean calculated for both temp A"[0K[?25h[68G[?25l$ git commit -m "Monthly and annual mean calculated for both temp "[0K[67G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both temp"[0K[66G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both tem"[0K[65G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both te"[0K[64G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both t"[0K[63G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both "[0K[62G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both s"[0K[63G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both st"[0K[64G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both sta"[0K[65G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stat"[0K[66G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stati"[0K[67G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both statio"[0K[68G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both station"[0K[69G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations"[0K[70G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations "[0K[70G[?25h[71G[?25l$ git commit -m "Monthly and annual mean calculated for both stations a"[0K[72G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations an"[0K[72G[?25h[73G[?25l$ git commit -m "Monthly and annual mean calculated for both stations and"[0K[74G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and "[0K[75G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and c[0K[75G[?25h[?25l
+olumn with time units first"[0K[28G[?25h[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[11G[10G[9G[8G[7G[6G[5G[4G[3G[2G[1G[?25l[1A[75G[?25h[74G[?25l$ git commit -m "Monthly and annual mean calculated for both stations and[0K
+column with time units first"[0K[1A[75G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and a[0K
+ column with time units first"[0K[1G[?25h[2G[3G[4G[5G[6G[7G[8G[9G[10G[11G[12G[13G[14G[15G[16G[17G[18G[19G[20G[21G[22G[23G[24G[?25l column with time unitsw first"[0K[25G[?25h[?25l column with time units first"[0K[24G[?25h[?25l column with time units  first"[0K[25G[?25h[?25l column with time units w first"[0K[26G[?25h[?25l column with time units wa first"[0K[27G[?25h[?25l column with time units was first"[0K[28G[?25h[?25l column with time units was  first"[0K[29G[?25h[?25l column with time units was c first"[0K[30G[?25h[?25l column with time units was cr first"[0K[31G[?25h[?25l column with time units was cre first"[0K[32G[?25h[?25l column with time units was crea first"[0K[33G[?25h[?25l column with time units was creat first"[0K[34G[?25h[?25l column with time units was create first"[0K[35G[?25h[?25l column with time units was created first"[0K[36G[?25h[37G[38G[39G[40G[41G[42G[?25l column with time units was created first "[0K[43G[?25h[?25l column with time units was created first t"[0K[44G[?25h[?25l column with time units was created first to"[0K[45G[?25h[?25l column with time units was created first to "[0K[46G[?25h[?25l column with time units was created first to c"[0K[47G[?25h[?25l column with time units was created first to cr"[0K[48G[?25h[?25l column with time units was created first to cre"[0K[49G[?25h[?25l column with time units was created first to crea"[0K[50G[?25h[?25l column with time units was created first to creat"[0K[51G[?25h[?25l column with time units was created first to create"[0K[52G[?25h[?25l column with time units was created first to create "[0K[53G[?25h[?25l column with time units was created first to create a"[0K[54G[?25h[?25l column with time units was created first to create a "[0K[55G[?25h[?25l column with time units was created first to create a s"[0K[56G[?25h[?25l column with time units was created first to create a si"[0K[57G[?25h[?25l column with time units was created first to create a sim"[0K[58G[?25h[?25l column with time units was created first to create a simp"[0K[59G[?25h[?25l column with time units was created first to create a simpl"[0K[60G[?25h[?25l column with time units was created first to create a simple"[0K[61G[?25h[?25l column with time units was created first to create a simple "[0K[62G[?25h[?25l column with time units was created first to create a simple p"[0K[63G[?25h[?25l column with time units was created first to create a simple pl"[0K[64G[?25h[?25l column with time units was created first to create a simple plo"[0K[65G[?25h[?25l column with time units was created first to create a simple plot"[0K[66G[?25h[?25l column with time units was created first to create a simple plot "[0K[67G[?25h[?25l column with time units was created first to create a simple plot o"[0K[68G[?25h[?25l column with time units was created first to create a simple plot of"[0K[69G[?25h[?25l column with time units was created first to create a simple plot of "[0K[70G[?25h[?25l column with time units was created first to create a simple plot of o"[0K[71G[?25h[?25l column with time units was created first to create a simple plot of ou"[0K[72G[?25h[?25l column with time units was created first to create a simple plot of our"[0K[73G[?25h[?25l column with time units was created first to create a simple plot of our "[0K[74G[?25h[?25l column with time units was created first to create a simple plot of our d"[0K[75G[?25h[?25l column with time units was created first to create a simple plot of our da[0K
+"[0K[1G[?25h[?25lt"[0K[2G[?25h[?25lta"[0K[3G[?25h[?25ltas"[0K[4G[?25h[?25ltase"[0K[5G[?25h[?25ltaset"[0K[6G[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/console06/81781219[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/prop/ECB99CE3[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5[0m[0K
+        [0;31mmodified:   .Rproj.user/AD83D04F/sources/s-B4CBE4F9/71B2B8F5-conten[0Kt
+s[0m[0K
+        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   data_prep.R[0m[0K
+[0K
+Untracked files:[0K
+        [0;31m.Rproj.user/AD83D04F/sources/prop/6E15EBE7[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/prop/AD724139[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/7390D4F1[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/7390D4F1-contents[0m[0K
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5[0m[0K[9G[?25h[?25l
+        [0;31m.Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5-contents[0m[0K
+        [0;31mreadme.Rd[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and a[0K
+ column with time units was created first to create a simple plot of our da[0K
+taset"[0K[?25h[?25l[2A$[0K
+[0K
+[0K[2A[3G[?25h[?25l$ g[0K
+[0K
+[0K[2A[4G[?25h[?25l$ gi[0K
+[0K
+[0K[2A[5G[?25h[?25l$ git[0K
+[0K
+[0K[2A[6G[?25h[7G[?25l$ git a[0K
+[0K
+[0K[2A[8G[?25h[?25l$ git ad[0K
+[0K
+[0K[2A[9G[?25h[?25l$ git add[0K
+[0K
+[0K[2A[10G[?25h[11G[?25l$ git add .[0K
+[0K
+[0K[2A[12G[?25h[?25l$ git add ./[0K
+[0K
+[0K[2A[13G[?25h

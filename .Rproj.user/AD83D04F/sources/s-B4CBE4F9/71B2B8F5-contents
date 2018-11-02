@@ -33,3 +33,8 @@ clim_stations <- rbind(temp_stations, prcp_stations)
 clim_stations <- clim_stations[, c(4, 1, 2, 5, 3)]
 
 save(clim_stations, file = './data/clim_stations.rdata')
+
+clim_stations[, date := ymd(paste0(year, '-', month, '01'), format = '%Y-%b-%d', locale = 'czech']
+monthly_means <- clim_stations[, .(mean(values, na.rm = T)), .(station, variable, month)]
+monthly_means <- clim_stations[, .(mean(values, na.rm = T)), .(station, variable, month)]
+clim_stations[, mean(temp_stations), by = month]
