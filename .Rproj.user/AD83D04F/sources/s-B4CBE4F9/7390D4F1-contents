@@ -127,3 +127,23 @@ corrplot(monthly_means_cor,
          diag = FALSE,
          tl.pos = "n", 
          cl.pos = "n")
+
+
+#Regression
+oslo_temp_annual <- annual_means_tab[, c('year', 'temp_oslo')]
+ggplot(data = oslo_temp_annual, aes(x = year, y = temp_oslo)) +
+  geom_line() + 
+  geom_smooth(method = 'lm', se = F) + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme_bw()
+
+fitted_model <- lm(temp_oslo ~ year, data = oslo_temp_annual)
+
+resid <- data.table(year = oslo_temp_annual$year[as.numeric(names(residuals(fitted_model)))])
+resid$residuals <- residuals(fitted_model)
+
+ggplot(data = resid, aes(x = year, y = residuals)) +
+  geom_point() + 
+  geom_smooth(se = F) + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme_bw()

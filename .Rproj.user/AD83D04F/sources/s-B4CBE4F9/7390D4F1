@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1541150448844.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3943166850",
     "id" : "7390D4F1",
-    "lastKnownWriteTime" : 1541153105,
-    "last_content_update" : 1541153392099,
+    "lastKnownWriteTime" : 1541153666,
+    "last_content_update" : 1541153666424,
     "path" : "~/R/climate/data_prep.R",
     "project_path" : "data_prep.R",
     "properties" : {
-        "cursorPosition" : "128,22",
-        "scrollLine" : "104"
+        "cursorPosition" : "143,0",
+        "scrollLine" : "124"
     },
     "read_only" : false,
     "read_only_alternatives" : [

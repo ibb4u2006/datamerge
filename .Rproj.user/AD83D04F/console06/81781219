@@ -748,4 +748,55 @@ Total 15 (delta 5), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "missing values"[0K[?25h[?25l$ git add ./[0K[?25h[?25l
-[0K[?25h
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/prop/6[0KE[?25l
+15EBE7.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/prop/A[0KD
+724139.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/7390D4F1.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/7390D4F1-contents.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/9D11E0B5.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/9D11E0B5-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add ./[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "missing values"[0K[?25h[32G[?25l$ git commit -m "missing value"[0K[31G[?25h[?25l$ git commit -m "missing valu"[0K[?25h[30G[?25l$ git commit -m "missing val"[0K[29G[?25h[?25l$ git commit -m "missing va"[0K[28G[?25h[?25l$ git commit -m "missing v"[0K[27G[?25h[?25l$ git commit -m "missing "[0K[26G[?25h[?25l$ git commit -m "missing"[0K[25G[?25h[?25l$ git commit -m "missin"[0K[?25h[24G[?25l$ git commit -m "missi"[0K[?25h[23G[?25l$ git commit -m "miss"[0K[22G[?25h[?25l$ git commit -m "mis"[0K[21G[?25h[?25l$ git commit -m "mi"[0K[20G[?25h[?25l$ git commit -m "m"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "c"[0K[19G[?25h[?25l$ git commit -m "co"[0K[20G[?25h[?25l$ git commit -m "cor"[0K[21G[?25h[?25l$ git commit -m "core"[0K[22G[?25h[?25l$ git commit -m "corel"[0K[23G[?25h[?25l$ git commit -m "corela"[0K[24G[?25h[?25l$ git commit -m "corel"[0K[23G[?25h[?25l$ git commit -m "core"[0K[?25h[22G[?25l$ git commit -m "cor"[0K[21G[?25h[?25l$ git commit -m "corr"[0K[22G[?25h[?25l$ git commit -m "corre"[0K[23G[?25h[?25l$ git commit -m "correl"[0K[24G[?25h[?25l$ git commit -m "correla"[0K[25G[?25h[?25l$ git commit -m "correlat"[0K[26G[?25h[?25l$ git commit -m "correlati"[0K[27G[?25h[?25l$ git commit -m "correlatio"[0K[28G[?25h[?25l$ git commit -m "correlation"[0K[29G[?25h[?25l
+[0K[?25h[master 6773e2a] correlation[0K[?25l
+ Committer: D352 <D352@czu.cz>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 9 files changed, 219 insertions(+), 16 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "correlation"[0K[?25h[?25l$ git add ./[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 31, done.[0K[?25l
+Counting objects: 100% (30/30), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (16/16), done.[0K
+Writing objects: 100% (16/16), 2.35 KiB | 602.00 KiB/s, done.[0K
+Total 16 (delta 6), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:   0% (0/6)[0K[1G[?25hremote: Resolving deltas: 100% (6/6), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/ibb4u2006/datamerge.git[0K[?25l
+   8182fc0..6773e2a  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K[14G[?25h[?25l
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[3G[?25h[28G[?25l$ git commit -m "correlation"[0K[?25h[?25l$ git add ./[0K[?25h
