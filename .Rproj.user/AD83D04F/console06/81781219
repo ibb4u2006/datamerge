@@ -563,4 +563,75 @@ taset"[0K[?25h[?25l[2A$ git status[0K
 [0K
 [0K[2A[13G[?25h[?25l$ git add ./[0K
 [0K
-[0K[2A[13G[?25h
+[0K[2A[13G[?25h[?25l
+[?25hwarning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/prop/6[0KE[?25l
+15EBE7.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/prop/A[0KD
+724139.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/7390D4F1.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/7390D4F1-contents.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/9D11E0B5.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/AD83D04F/sources/s-B4CB[0KE
+4F9/9D11E0B5-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add ./[0K[?25h[?25l$ git status[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and a[0K
+ column with time units was created first to create a simple plot of our da[0K
+taset"[0K[?25h[?25l
+[0K[?25h[master 38e6208] Monthly and annual mean calculated for both stations and a[0K[?25l
+column with time units was created first to create a simple plot of our dat[0Ka
+set[0K
+ Committer: D352 <D352@czu.cz>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 9 files changed, 208 insertions(+), 94 deletions(-)[0K
+ rewrite .Rproj.user/AD83D04F/sources/s-B4CBE4F9/9D11E0B5-contents (99%)[0K
+ rewrite readme.Rd (99%)[0K
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and a[0K
+ column with time units was created first to create a simple plot of our da[0K
+taset"[0K[?25h[?25l[2A$ git add ./[0K
+[0K
+[0K[2A[13G[?25h[?25l$ git status[0K
+[0K
+[0K[2A[13G[?25h[?25l$ git push -u origin master[0K
+[0K
+[0K[2A[28G[?25h[?25l
+[?25hEnumerating objects: 29, done.[0K[?25l
+Counting objects: 100% (29/29), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (14/14), done.[0K
+Writing objects:  26% (4/15)[0K[1G[?25hWriting objects: 100% (15/15), 2.36 KiB | 603.00 KiB/s, done.[0K[?25l
+Total 15 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/ibb4u2006/datamerge.git[0K[?25l
+   c72ed01..38e6208  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-13 [0;35m [0;33m~/Documents/R/climate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "Monthly and annual mean calculated for both stations and a[0K[28G[?25h[?25l
+ column with time units was created first to create a simple plot of our da[0K
+taset"[0K[?25h[?25l[2A$ git add ./[0K
+[0K
+[0K[2A[13G[?25h[?25l
+[?25h

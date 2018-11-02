@@ -54,3 +54,5 @@ ggplot(data = clim_stations[is.na(values)], aes(x = month)) +
   facet_wrap(variable ~ station) + 
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   theme_bw()
+
+clim_stations[is.na(values)]
