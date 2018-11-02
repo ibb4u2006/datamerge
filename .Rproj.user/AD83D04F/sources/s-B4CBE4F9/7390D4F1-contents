@@ -43,8 +43,14 @@ dt[, column_to_delete := NULL]
 
 clim_stations[, date := ymd(paste0(year, '-', month, '-01'), format = '%Y-%b-%d', locale = 'czech')]
 
-ggplot(data = clim_stations, aes(x = date, y = values)) +
-  geom_line() + 
-  facet_wrap(variable ~ station, scales = "free_y" ) + 
+ggplot(data = clim_stations[is.na(values)], aes(x = year)) +
+  geom_bar() + 
+  facet_wrap(variable ~ station) + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme_bw()
+
+ggplot(data = clim_stations[is.na(values)], aes(x = month)) +
+  geom_bar() + 
+  facet_wrap(variable ~ station) + 
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   theme_bw()
